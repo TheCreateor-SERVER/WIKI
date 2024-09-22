@@ -1,2 +1,0 @@
-# WIKI
-The TheCreateorServer Wiki
